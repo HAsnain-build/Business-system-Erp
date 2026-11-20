@@ -1,0 +1,8 @@
+{
+  "name": "Clearline",
+  "description": "Clearline is a streamlined business operations, people, inventory, and finance workspace built for modern teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
